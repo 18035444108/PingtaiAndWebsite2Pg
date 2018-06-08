@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//conf/KeywordRule.txt=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/main/java/com/golaxy/Application.java=UTF-8
+encoding//src/main/java/com/golaxy/CMysqlFundsTaskDataSourceConfig.java=UTF-8
+encoding//src/main/java/com/golaxy/model/postgres/PingtaiInfoModel.java=UTF-8
+encoding//src/main/java/com/golaxy/service/KeywordRuleServie.java=UTF-8
+encoding//src/main/java/com/golaxy/service/PingtaiInfoService.java=UTF-8
+encoding//src/main/java/com/golaxy/service/WebSiteInfoService.java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8

@@ -1,0 +1,267 @@
+{"properties": [
+  {
+    "name": "spring.data.mysql.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.driver-class-name'"
+  },
+  {
+    "name": "spring.data.mysql.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.connection-timeout'"
+  },
+  {
+    "name": "spring.data.mysql.max-active",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.max-active'"
+  },
+  {
+    "name": "spring.data.mysql.max-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.max-idle'"
+  },
+  {
+    "name": "spring.data.mysql.max-wait",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.max-wait'"
+  },
+  {
+    "name": "spring.data.mysql.test-on-borrow",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.test-on-borrow'"
+  },
+  {
+    "name": "spring.data.mysql.validation-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.validation-query'"
+  },
+  {
+    "name": "spring.datasource.pg.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.pg.connection-timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.connection-timeout'"
+  },
+  {
+    "name": "spring.datasource.pg.max-active",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.max-active'"
+  },
+  {
+    "name": "spring.datasource.pg.max-idle",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.max-idle'"
+  },
+  {
+    "name": "spring.datasource.pg.max-wait",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.max-wait'"
+  },
+  {
+    "name": "spring.datasource.pg.test-on-borrow",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.test-on-borrow'"
+  },
+  {
+    "name": "spring.datasource.pg.validation-query",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.validation-query'"
+  },
+  {
+    "name": "spring.datasource.pg.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.url'"
+  },
+  {
+    "name": "spring.datasource.pg.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.username'"
+  },
+  {
+    "name": "spring.datasource.pg.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.pg.password'"
+  },
+  {
+    "name": "spring.data.mysql.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.url'"
+  },
+  {
+    "name": "spring.data.mysql.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.username'"
+  },
+  {
+    "name": "spring.data.mysql.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.password'"
+  },
+  {
+    "name": "spring.data.mongodb.custom.min-connections-per-host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.custom.min-connections-per-host'"
+  },
+  {
+    "name": "spring.data.mongodb.custom.connections-per-host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.custom.connections-per-host'"
+  },
+  {
+    "name": "spring.data.mongodb.connections-per-host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.connections-per-host'"
+  },
+  {
+    "name": "spring.data.mongodb.min-connections-per-host",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mongodb.min-connections-per-host'"
+  },
+  {
+    "name": "spring.data.kafka.servers",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.servers'"
+  },
+  {
+    "name": "spring.data.kafka.bootstrap.servers",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.bootstrap.servers'"
+  },
+  {
+    "name": "spring.data.kafka.application.id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.application.id'"
+  },
+  {
+    "name": "spring.data.kafka.bootstrap-servers",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.bootstrap-servers'"
+  },
+  {
+    "name": "spring.data.kafka.num-stream-threads\r\n\r\nspring.profiles.active",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.num-stream-threads\r\n\r\nspring.profiles.active'"
+  },
+  {
+    "name": "spring.data.kafka.auto-offset-reset",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.auto-offset-reset'"
+  },
+  {
+    "name": "spring.data.kafka.num-stream-threads",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.num-stream-threads'"
+  },
+  {
+    "name": "spring.data.kafka.schema-registry-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.schema-registry-url'"
+  },
+  {
+    "name": "spring.data.kafka.application-id",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.application-id'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[0]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[0]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[0]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[1]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[1]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[2]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[2]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[2]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[3]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[3]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[4]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[4]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[5]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[5]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[6]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[6]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[7]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[7]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[7]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[7]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[8]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[8]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[9]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[9]'"
+  },
+  {
+    "name": "spring.data.kafka.pt-opinion-topic[0]",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafka.pt-opinion-topic[0]'"
+  },
+  {
+    "name": "cs.advertisement.classifier.uri",
+    "type": "java.lang.String",
+    "description": "A description for 'cs.advertisement.classifier.uri'"
+  },
+  {
+    "name": "spring.data.kafak.jaas",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.kafak.jaas'"
+  },
+  {
+    "name": "spring.data.mysql.funds_task.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.funds_task.url'"
+  },
+  {
+    "name": "spring.data.mysql.funds_task.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.funds_task.username'"
+  },
+  {
+    "name": "spring.data.mysql.funds_task.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.data.mysql.funds_task.password'"
+  }
+]}
